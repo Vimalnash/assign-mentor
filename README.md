@@ -1,5 +1,6 @@
 # Assign-Mentor
 Welcome to Student Mentor Relation Setting
+
     API to create Mentor
         https://assign-mentor-v98r.onrender.com/api/mentor/create
         frontend - Master - Mentor
@@ -22,7 +23,7 @@ Welcome to Student Mentor Relation Setting
     API to show all students for a particular mentor
         https://assign-mentor-v98r.onrender.com/api/student/mentor/:mentorId
         frontend - Reports - StudentListForMentor
-        
+
     API to show the previously assigned mentor for a particular student.
         https://assign-mentor-v98r.onrender.com/api/student/:studentId
         frontend - Reports - PreviousMentorForaStudent
